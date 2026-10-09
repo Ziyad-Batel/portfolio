@@ -1,0 +1,124 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f6f8;
+    color: #222;
+}
+
+header {
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+nav {
+    background-color: #111827;
+    text-align: center;
+    padding: 12px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #60a5fa;
+}
+
+section {
+    width: 80%;
+    margin: 30px auto;
+    background-color: white;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+h2 {
+    color: #1f2937;
+}
+
+img {
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #333;
+}
+<!-- ZIYAD BATEL ALBALOWI 445050099 -->
+th {
+    background-color: #1f2937;
+    color: white;
+}
+
+th, td {
+    padding: 12px;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+
+label {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+input, textarea {
+    padding: 10px;
+    margin-top: 5px;
+}
+
+textarea {
+    height: 120px;
+}
+
+input[type="submit"], button, .btn {
+    background-color: #1f2937;
+    color: white;
+    padding: 10px;
+    margin-top: 15px;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+    width: fit-content;
+}
+
+input[type="submit"]:hover, button:hover, .btn:hover {
+    background-color: #374151;
+}
+
+footer {
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+} {
+    width: 300px;
+}
+
+input, textarea {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+footer {
+   
+ background-color: lightgray;
+    text-align: center;
+    padding: 10px;
+}
